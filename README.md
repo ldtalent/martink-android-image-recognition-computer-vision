@@ -8,9 +8,9 @@ powered by Tensorflow, a Deep Learning library developed by Google.
 <br>
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/eddywm/KTFLITE/master/assets/img1.png" width="250">
+  <img src="https://github.com/learningdollars/martink-android-image-recognition-computer-vision/blob/main/cv1.png" width="250">
 
-   <img src="https://raw.githubusercontent.com/eddywm/KTFLITE/master/assets/_img2.png" width="250">
+   <img src="https://github.com/learningdollars/martink-android-image-recognition-computer-vision/blob/main/cv2.png" width="250">
 
 
    </p>
@@ -22,7 +22,7 @@ powered by Tensorflow, a Deep Learning library developed by Google.
 <br>
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/eddywm/KTFLITE/master/assets/_inference1.png" width="250">
+  <img src="https://github.com/learningdollars/martink-android-image-recognition-computer-vision/blob/main/cv4.png" width="250">
 
   
   </p>
