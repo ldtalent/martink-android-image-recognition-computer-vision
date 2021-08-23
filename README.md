@@ -44,5 +44,5 @@ Build APK with gradle to run on your Android device.
 
 ## Author
 
-MartinK – martinwairegikimani@gmail.com
+MartinK https://www.learningdollars.com/freelancer/profile/?erid=martink1
 
